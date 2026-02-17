@@ -1,21 +1,21 @@
 # 📊 Total Sales Visualization Dashboard
 
-An interactive **Power BI dashboard** designed to analyze overall sales performance, profit trends, product distribution, and country-wise insights. This project helps in making **data-driven decisions** through clear and interactive visualizations.
+An interactive **Power BI dashboard** built to analyze sales performance, profit trends, product distribution, and country-wise insights. This project demonstrates how data visualization helps in making **data-driven business decisions**.
 
 ---
 
 ## 🚀 Project Overview
 
-The **Total Sales Visualization** dashboard provides a complete overview of business performance, including:
+The **Total Sales Visualization** dashboard provides a comprehensive view of:
 
 - Total sales revenue
-- Monthly profit trends
+- Monthly profit analysis
 - Sales distribution by segment
-- Product performance analysis
+- Product-wise performance
 - Country-wise sales and discounts
 - Time-based sales trends
 
-This dashboard is built for quick insights and executive-level reporting.
+This dashboard is designed for quick insights and business performance monitoring.
 
 ---
 
@@ -23,40 +23,26 @@ This dashboard is built for quick insights and executive-level reporting.
 
 - 💰 **Total Sales KPI** – Displays overall revenue
 - 📈 **Profit by Month** – Monthly profit comparison
-- 🧩 **Product by Segment** – Sales distribution across business segments
+- 🧩 **Product by Segment** – Segment-wise distribution
 - 📦 **Sales by Product** – Individual product performance
-- 🌍 **Country Filter** – Interactive selection (Canada, France, Germany, Mexico, USA)
-- 🎯 **Discounts by Country** – Country-wise discount analysis
-- 📅 **Sales by Month & Day** – Detailed time-based trends
+- 🌍 **Country Filter** – Interactive filtering (Canada, France, Germany, Mexico, USA)
+- 🎯 **Discounts by Country** – Country-level discount analysis
+- 📅 **Sales by Month & Day** – Time-based trend visualization
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Power BI
-- Data Modeling
-- DAX (Data Analysis Expressions)
-- Data Visualization Best Practices
-
----
-
-## 📂 Project Structure
-Total-Sales-Dashboard/
-│
-├── Total_Sales_Dashboard.pbix
-├── dataset/
-│ └── sales_data.xlsx
-├── dashboard_preview.png
-└── README.md
-
+- Power BI  
+- Data Modeling  
+- DAX (Data Analysis Expressions)  
+- Data Visualization Best Practices  
 
 ---
 
 ## 📷 Dashboard Preview
 
-![Total Sales Dashboard](dashboard_preview.png)
-
-*(Upload your dashboard screenshot in the repository with the name `dashboard_preview.png`)*
+![Total Sales Dashboard](https://github.com/Khushi-yadav8757/Total-Sales-Visualization/blob/main/Screenshot%202026-02-17%20083415.png)
 
 ---
 
@@ -64,17 +50,17 @@ Total-Sales-Dashboard/
 
 - Sales performance monitoring  
 - Business decision support  
-- Regional sales comparison  
-- Portfolio project for Data Analyst roles  
+- Regional comparison of sales  
+- Portfolio project for Data Analyst / Power BI roles  
 
 ---
 
-## 🧠 Insights Provided
+## 🧠 Insights You Can Get
 
 - Top-performing countries
 - Best-selling products
-- Profit trends over time
-- Segment-wise business contribution
+- Monthly profit trends
+- Business segment contribution
 - Discount impact across regions
 
 ---
@@ -83,5 +69,4 @@ Total-Sales-Dashboard/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Total-Sales-Dashboard.git
-
+   git clone https://github.com/Khushi-yadav8757/Total-Sales-Visualization.git
